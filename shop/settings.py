@@ -81,7 +81,7 @@ DATABASES = {
     },
     'OPTIONS': {
     'threaded': False,
-    'timeout': 20,
+    'timeout': 1,
     },
 }
 
